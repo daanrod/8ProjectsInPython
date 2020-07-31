@@ -1,3 +1,11 @@
-# 8ProjectsInPython
+# 8 Projects made in Python
 
-• Projects for traine my skills
+1. Dice roll
+2. Dice roll with GUI
+3. Hit the random number
+
+
+# Technologies
+1. Python
+2. PySimplesGUI
+3. PyCharms
